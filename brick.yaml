@@ -1,0 +1,14 @@
+name: init_riverpod_freezed
+description: A brick of a boilerplate for new Flutter project.
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: project name
+    default: todo
+    prompt: What is your project name?
