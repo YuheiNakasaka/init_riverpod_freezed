@@ -61,3 +61,5 @@ mason add -g init_riverpod_freezed --git-url https://github.com/YuheiNakasaka/in
 mason make init_riverpod_freezed
 > ? What is your project name? (todo) sample_app
 ```
+
+![](https://user-images.githubusercontent.com/1421093/175816336-b7675df1-8494-482b-affb-07b0537ab011.png)
